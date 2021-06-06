@@ -1,0 +1,19 @@
+{
+    "Kullanicilar": [
+        {
+            "AdiSoyadi":"Mahmut Mirza Kutlu",
+            "Email":"mirzakutlu@gmail.com",
+            "Sifre": "123456."
+        },
+        {
+            "AdiSoyadi":"Selami Şahin",
+            "Email":"selamisahin@gmail.com",
+            "Sifre": "1234567"
+        },
+        {
+            "AdiSoyadi":"Serdar Ortaç",
+            "Email":"serdarortac@gmail.com",
+            "Sifre": "12341234"
+        }
+    ]
+}
