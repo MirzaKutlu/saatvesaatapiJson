@@ -1,402 +1,415 @@
 {
-	"Categories": [
-		{
+	"Categories": [{
 			"KategoriAdi": "Akıllı Saat",
-			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli1.jpg"
+			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli1.jpg",
+			"Products": [{
+					"KategoriAdi": "Akıllı Saat",
+					"MarkaAdi": "Parigi Connect",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "45 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " IP67 Su Geçirmezlik",
+					"Renk": "Mavi",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli1.jpg",
+					"Fiyat": "2.210₺",
+					"Aciklama": "iOS ve Android uyumlu. Android 5.0 ve üzeri işletim sistemini destekler. iOS 9.0 ve üzeri işletim sistemini destekler. Cam: 2.5D Gorilla Glass Amoled Toza Dayanıklı: Evet Kayış Uzunluğu: 24 cm Kayış Genişliği:22 mm Batarya: 140 mAH Bluetooth: VER 4.0 Ekran Boyutu: 1.3'' TFT HD Ekran Çözünürlük: 240x240 pixel Hafıza: 128 KB Ram+ 1 MB ROM+32 MB SPI ROM Adım Ölçer: Var Kalp Ritmi Ölçme: Var Kalori Hesaplama: Var Bildirim Kontrol: Var Uyku Takibi: Var Hava Durumu: Var Kan Basıncı: Var Kandaki Oksijen: Var Dil Seçeneği: Var"
+				},
+				{
+					"KategoriAdi": "Akıllı Saat",
+					"MarkaAdi": "Wesse Connect",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "45 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " IP67 Su Geçirmezlik",
+					"Renk": "Mavi",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli2.jpg",
+					"Fiyat": "1.120₺",
+					"Aciklama": "iOS ve Android uyumlu. Android 5.0 ve üzeri işletim sistemini destekler. iOS 9.0 ve üzeri işletim sistemini destekler. Cam: 2.5D Gorilla Glass Amoled Toza Dayanıklı: Evet Kayış Uzunluğu: 24 cm Kayış Genişliği:22 mm Batarya: 140 mAH Bluetooth: VER 4.0 Ekran Boyutu: 1.3'' TFT HD Ekran Çözünürlük: 240x240 pixel Hafıza: 128 KB Ram+ 1 MB ROM+32 MB SPI ROM Adım Ölçer: Var Kalp Ritmi Ölçme: Var Kalori Hesaplama: Var Bildirim Kontrol: Var Hava Durumu: Evet Uyku Takibi: Var Hava Durumu: Var Kan Basıncı: Var Kandaki Oksijen: Var Dil Seçeneği: Var Sitemizde bulunan tüm Wesse Connect Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Akıllı Saat",
+					"MarkaAdi": "Emporio Armani Connected",
+					"MalzemeTipi": "Çelik",
+					"KasaBoyutu": "44 mm Kasa Çapı",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 3 ATM Su Geçirmezlik",
+					"Renk": "Sarı-Siyah",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli3.jpg",
+					"Fiyat": "2.507₺",
+					"Aciklama": "Emporio Armani Connected Akıllı Saatiniz; Wear OS by Google teknolojisi ile size son derece kişiselleştirilmiş yeni bir deneyim sunuyor. Wear OS by Google ile çalışan akıllı saatler iPhone® ve Android™ telefonlarla uyumludur. Wear OS by Google ve ilgili diğer markalar Google LLC'nin ticari markalarıdır. Wear OS by Google, Android 6.0+ (Go sürümü hariç) ve iOS 10.0+ sürümünü kullanan telefonlarla çalışır. Desteklenen özellikler platformlar ve ülkeler arasında değişiklik gösterebilir. Emporio Armani Connected Dokunmatik Akıllı Saatinizin Özellikleri; Wear OS by Google™ ile çalışan akıllı saatler iPhoneⓇ ¹ ve Android Telefonlarla uyumludur.Akıllı saatiniz 8 GB hafızaya sahiptir. Genişletilmiş Pil Modunda tek bir şarjla birkaç gün kullanabilirsiniz. Kalp Atış Hızı ve Aktivite Takibi, mesafe takibi için Dahili GPS, Yüzme Esnasında Su Geçirmez tasarıma sahiptir. GEN 5 serisi ile sesli uyarıların yanı sıra telefon görüşmeleri yapabilir, Google Asistan’dan yanıt alabilir ve çok daha fazlası için Hoparlör özelliğine sahip olabilirsiniz. Akıllı telefon bildirimlerini ve uyarılarınızı alır, takviminizi yönetebilir, müziğinizi kontrol edebilir, saat yüzünüzü özelleştirir ve daha fazla depolama alanı sayesinde üçüncü taraf uygulamalarını indirebilirsiniz. Google Pay™ kullanarak saatinizle kasada hızlı ödeme yapabilirsiniz. İade edilmek istenen akıllı saat mutlaka orijinal kutusu ve eksiksiz içeriğiyle (saat, şarj kablosu, hızlı başlangıç kılavuzu, garanti bilgisi kılavuzu) gönderilmelidir. - Saat gönderilmeden önce resetlenmeli ve eğer bir telefon ile eşleştirildi ise eşleştirilme kaldırılmalıdır. Sitemizde bulunan tüm Emporio Armani Connected Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. \"Aynı gün Kargoda\" ibaresi yer alan ürünler \"Hızlı Teslimat\" seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Akıllı Saat",
+					"MarkaAdi": "Diesel Connected",
+					"MalzemeTipi": "Çelik",
+					"KasaBoyutu": "48 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 3 ATM Su Geçirmezlik",
+					"Renk": "Gri-Mavi",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli4.jpg",
+					"Fiyat": "1.802₺",
+					"Aciklama": "Diesel Connected Akıllı Saatinizde Wear OS by Google teknolojisine sahip sorunsuz işlevsellik yer almaktadır. Wear OS by Google ile çalışan akıllı saatler iPhone® ve Android™ telefonlarla uyumludur. Wear OS by Google ve ilgili diğer markalar Google LLC'nin ticari markalarıdır. Wear OS by Google ile çalışan dokunmatik ekranlı akıllı saatler için Android OS 4.4+ (Go sürümü hariç) veya iOS 10.0+ ile çalışan bir telefon gerekmektedir. Desteklenen özellikler platformlara ve ülkelere göre değişiklik gösterebilir. Saatinizin hasar görmesini önlemek için saatinizi yalnızca birlikte verilen şarj cihazıyla kullanmanız gerekmektedir. Şarj etmek için USB hub, USB ayırıcı, USB y kablosu, pil takımı veya başka bir çevresel aygıt kullanmayınız. RF paraziti olasılığını en aza indirmek için ürün, implante edilmiş tıbbi cihazlardan en az 20 cm daha uzakta tutulmalıdır. Diesel Connected Dokunmatik Akıllı Saatinizin Özellikleri; Wear OS by Google™ ile çalışan akıllı saatler iPhone¹ ve Android Telefonlarla uyumludur. Akıllı saatiniz 8 GB hafızaya sahiptir."
+				},
+				{
+					"KategoriAdi": "Akıllı Saat",
+					"MarkaAdi": "Michael Kors Connected",
+					"MalzemeTipi": "Çelik",
+					"KasaBoyutu": "48 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 3 ATM Su Geçirmezlik",
+					"Renk": "Gri",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli5.jpg",
+					"Fiyat": "3.327₺",
+					"Aciklama": "Michael Kors Connected Akıllı Saatiniz; Wear OS by Google ile çalışan akıllı saatler iPhone® ve Android™ telefonlarla uyumludur. Wear OS by Google ve ilgili diğer markalar Google LLC'nin ticari markalarıdır. Wear OS by Google, Android 6.0+ (Go sürümü hariç) ve iOS 10.0+ sürümünü kullanan telefonlarla çalışır. Desteklenen özellikler platformlar ve ülkeler arasında değişiklik gösterebilir. Michael Kors Connected Dokunmatik Akıllı Saatinizin Özellikleri; Wear OS by Google™ ile çalışan akıllı saatler iPhoneⓇ ¹ ve Android Telefonlarla uyumludur. Akıllı saatiniz 8 GB hafızaya sahiptir. Genişletilmiş Pil Modunda tek bir şarjla birkaç gün kullanabilirsiniz. Kalp Atış Hızı ve Aktivite Takibi, mesafe takibi için Dahili GPS, Yüzme Esnasında Su Geçirmez tasarıma sahiptir. "
+				},
+				{
+					"KategoriAdi": "Akıllı Saat",
+					"MarkaAdi": "Fossil Connected",
+					"MalzemeTipi": "Çelik",
+					"KasaBoyutu": "44 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 10 ATM Su Geçirmezlik",
+					"Renk": "Kahverengi",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli6.jpg",
+					"Fiyat": "2.507₺",
+					"Aciklama": "Wear OS by Google™ tarafından güçlendirilmiş akıllı saatler en sevdiğiniz uygulamalar ile bağlanır. Apple ve Android telefonlar ile uyumludur. Google Fit ile yapılan fitness takibinizle, kalori yakışınızı, adımlarınızı ve kat ettiğiniz mesafeleri görüntüleyebilirsiniz. Çağrılarınız ve alarmlarınız ile ilgili bildirimler alabilirsiniz. Akıllı saatlerinizin saat yüzlerini dilediğiniz renge ve tarza göre şekillendirip, kolayca çıkabilen kayışları sayesinde aktivitenize uygun kayışınızı seçebilirsiniz. Wear OS by Google sadece Android 4.4+(Go versiyonu dahil) veya iOS 9.3+ versiyonlarında çalışır."
+				}
+			]
 		},
 		{
 			"KategoriAdi": "Bayan Saat",
-			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan1.jpg"
+			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan1.jpg",
+			"Products": [
+
+				{
+					"KategoriAdi": "Bayan Saat",
+					"MarkaAdi": "Diesel",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "45 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 10 ATM Su Geçirmezlik",
+					"Renk": "Siyah",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan1.jpg",
+					"Fiyat": "585₺",
+					"Aciklama": "Sitemizde bulunan tüm Diesel Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Bayan Saat",
+					"MarkaAdi": "Skagen",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "41 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 3 ATM Su Geçirmezlik",
+					"Renk": "Kırmızı",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan2.jpg",
+					"Fiyat": "1.125₺",
+					"Aciklama": "Sitemizde bulunan tüm Skagen Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Bayan Saat",
+					"MarkaAdi": "Armani Exchange",
+					"MalzemeTipi": "Çelik",
+					"KasaBoyutu": "36 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 5 ATM Su Geçirmezlik",
+					"Renk": "Altın",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan3.jpg",
+					"Fiyat": "1.177₺",
+					"Aciklama": "Sitemizde bulunan tüm Armani Exchange Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Bayan Saat",
+					"MarkaAdi": "Welder Moody Watch",
+					"MalzemeTipi": "Çelik",
+					"KasaBoyutu": "38 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 5 ATM Su Geçirmezlik",
+					"Renk": "Altın",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan4.jpg",
+					"Fiyat": "1.860₺",
+					"Aciklama": "Renk değiştiren “Photochromic” camı, sol tarafa konumlandırılmış kurma kolları ve hasır metal kordonun cool duruşu ile “Breezy Koleksiyonu” Welder Moody saatiniz tarzınızı tamamlayacak en trendy aksesuar olacak! “Welder Moody WWRC646 modelinin kayış ve kasa rengi neon rengidir.”"
+				},
+				{
+					"KategoriAdi": "Bayan Saat",
+					"MarkaAdi": "Guess",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "39 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 3 ATM Su Geçirmezlik",
+					"Renk": "Beyaz",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan5.jpg",
+					"Fiyat": "945₺",
+					"Aciklama": "Sitemizde bulunan tüm Guess Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Bayan Saat",
+					"MarkaAdi": "Skechers",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "30 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 3 ATM Su Geçirmezlik",
+					"Renk": "Su Yeşili",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan6.jpg",
+					"Fiyat": "172₺",
+					"Aciklama": "Sitemizde bulunan tüm Skechers Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				}
+			]
 		},
 		{
 			"KategoriAdi": "Çocuk Saat",
-			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk1.jpg"
+			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk1.jpg",
+			"Products": [
+
+				{
+					"KategoriAdi": "Çocuk Saat",
+					"MarkaAdi": "Xonix",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "30 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 3 ATM Su Geçirmezlik",
+					"Renk": "Mavi",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk1.jpg",
+					"Fiyat": "108₺",
+					"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Çocuk Saat",
+					"MarkaAdi": "Xonix",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "35 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 10 ATM Su Geçirmezlik",
+					"Renk": "Siyah",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk2.jpg",
+					"Fiyat": "288₺",
+					"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Çocuk Saat",
+					"MarkaAdi": "Xonix",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "30 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 3 ATM Su Geçirmezlik",
+					"Renk": "Kırmızı",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk3.jpg",
+					"Fiyat": "108₺",
+					"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Çocuk Saat",
+					"MarkaAdi": "Xonix",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "30 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 3 ATM Su Geçirmezlik",
+					"Renk": "Açık Mavi",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk4.jpg",
+					"Fiyat": "108₺",
+					"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Çocuk Saat",
+					"MarkaAdi": "Xonix",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "42 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 10 ATM Su Geçirmezlik",
+					"Renk": "Siyah",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk5.jpg",
+					"Fiyat": "387₺",
+					"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Çocuk Saat",
+					"MarkaAdi": "Xonix",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "36 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 10 ATM Su Geçirmezlik",
+					"Renk": "Mavi-Sarı-Pembe",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk6.jpg",
+					"Fiyat": "288₺",
+					"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				}
+			]
 		},
 		{
 			"KategoriAdi": "Erkek Saat",
-			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek1.jpg"
+			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek1.jpg",
+			"Products": [
+
+				{
+					"KategoriAdi": "Erkek Saat",
+					"MarkaAdi": "Emporio Armani",
+					"MalzemeTipi": "Çelik",
+					"KasaBoyutu": "46 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 5 ATM Su Geçirmezlik",
+					"Renk": "Gri-Siyah",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek1.jpg",
+					"Fiyat": "3.153₺",
+					"Aciklama": "Sitemizde bulunan tüm Emporio Armani Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat” seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Erkek Saat",
+					"MarkaAdi": "Diesel",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "46 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 5 ATM Su Geçirmezlik",
+					"Renk": "Siyah",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek2.jpg",
+					"Fiyat": "713₺",
+					"Aciklama": "Sitemizde bulunan tüm Diesel Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat” seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Erkek Saat",
+					"MarkaAdi": "Diesel",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "51 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 10 ATM Su Geçirmezlik",
+					"Renk": "Siyah-Mavi",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek3.jpg",
+					"Fiyat": "2502₺",
+					"Aciklama": "Sitemizde bulunan tüm Diesel Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat” seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Erkek Saat",
+					"MarkaAdi": "Welder Moody Watch",
+					"MalzemeTipi": "Deri-Çelik",
+					"KasaBoyutu": "45 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 5 ATM Su Geçirmezlik",
+					"Renk": "Siyah",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek4.jpg",
+					"Fiyat": "1310₺",
+					"Aciklama": "Renk değiştiren “Photochromic” camı, sol tarafa konumlandırılmış kurma kolları, yumuşak dokusu ve pastel tonlardaki farklı renk seçenekleri ile “Smoothie koleksiyonu” Welder Moody saatiniz tarzını tamamlayacak en trendy aksesuar olacak!"
+				},
+				{
+					"KategoriAdi": "Erkek Saat",
+					"MarkaAdi": "Tommy Hilfiger",
+					"MalzemeTipi": "Deri-Çelik",
+					"KasaBoyutu": "40 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 5 ATM Su Geçirmezlik",
+					"Renk": "Siyah",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek5.jpg",
+					"Fiyat": "2.457₺",
+					"Aciklama": "Sitemizde bulunan tüm Tommy Hilfiger Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Erkek Saat",
+					"MarkaAdi": "Emporio Armani",
+					"MalzemeTipi": "Çelik",
+					"KasaBoyutu": "43 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 5 ATM Su Geçirmezlik",
+					"Renk": "Siyah",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek6.jpg",
+					"Fiyat": "3.747₺",
+					"Aciklama": "Sitemizde bulunan tüm Emporio Armani Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				}
+			]
 		},
 		{
 			"KategoriAdi": "Markalar",
-			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka1.jpg"
+			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka1.jpg",
+			"Products": [
+
+				{
+					"KategoriAdi": "Markalar",
+					"MarkaAdi": "Armani Exchange",
+					"MalzemeTipi": "Silikon",
+					"KasaBoyutu": "44 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 5 ATM Su Geçirmezlik",
+					"Renk": "Beyaz",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka1.jpg",
+					"Fiyat": "810₺",
+					"Aciklama": "Sitemizde bulunan tüm Emporio Armani Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Markalar",
+					"MarkaAdi": "Boss Watches",
+					"MalzemeTipi": "Çelik",
+					"KasaBoyutu": "44 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 5 ATM Su Geçirmezlik",
+					"Renk": "Gri",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka2.jpg",
+					"Fiyat": "2.058₺",
+					"Aciklama": ""
+				},
+				{
+					"KategoriAdi": "Markalar",
+					"MarkaAdi": "Missoni",
+					"MalzemeTipi": "Kumaş",
+					"KasaBoyutu": "44 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 5 ATM Su Geçirmezlik",
+					"Renk": "Mavi-Gri",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka3.jpg",
+					"Fiyat": "6.128₺",
+					"Aciklama": "Sitemizde bulunan tüm Missoni Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Markalar",
+					"MarkaAdi": "Michael Kors",
+					"MalzemeTipi": "Çelik",
+					"KasaBoyutu": "38 mm Kasa Çapı ",
+					"KasaTipi": "Yuvarlak Kasa Şekli",
+					"Sertifika": " 5 ATM Su Geçirmezlik",
+					"Renk": "Altın-Gri",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka4.jpg",
+					"Fiyat": "3.208₺",
+					"Aciklama": "Sitemizde bulunan tüm Michael Kors Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir"
+				}
+			]
 		},
 		{
 			"KategoriAdi": "Takı Ve Aksesuar",
-			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/taki1.jpg"
-		}
-	],
-	"Products": [
-		{
-			"KategoriAdi": "Akıllı Saat",
-			"MarkaAdi": "Parigi Connect",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "45 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " IP67 Su Geçirmezlik",
-			"Renk": "Mavi",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli1.jpg",
-			"Fiyat": "2.210₺",
-			"Aciklama": "iOS ve Android uyumlu. Android 5.0 ve üzeri işletim sistemini destekler. iOS 9.0 ve üzeri işletim sistemini destekler. Cam: 2.5D Gorilla Glass Amoled Toza Dayanıklı: Evet Kayış Uzunluğu: 24 cm Kayış Genişliği:22 mm Batarya: 140 mAH Bluetooth: VER 4.0 Ekran Boyutu: 1.3'' TFT HD Ekran Çözünürlük: 240x240 pixel Hafıza: 128 KB Ram+ 1 MB ROM+32 MB SPI ROM Adım Ölçer: Var Kalp Ritmi Ölçme: Var Kalori Hesaplama: Var Bildirim Kontrol: Var Uyku Takibi: Var Hava Durumu: Var Kan Basıncı: Var Kandaki Oksijen: Var Dil Seçeneği: Var"
-		},
-		{
-			"KategoriAdi": "Akıllı Saat",
-			"MarkaAdi": "Wesse Connect",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "45 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " IP67 Su Geçirmezlik",
-			"Renk": "Mavi",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli2.jpg",
-			"Fiyat": "1.120₺",
-			"Aciklama": "iOS ve Android uyumlu. Android 5.0 ve üzeri işletim sistemini destekler. iOS 9.0 ve üzeri işletim sistemini destekler. Cam: 2.5D Gorilla Glass Amoled Toza Dayanıklı: Evet Kayış Uzunluğu: 24 cm Kayış Genişliği:22 mm Batarya: 140 mAH Bluetooth: VER 4.0 Ekran Boyutu: 1.3'' TFT HD Ekran Çözünürlük: 240x240 pixel Hafıza: 128 KB Ram+ 1 MB ROM+32 MB SPI ROM Adım Ölçer: Var Kalp Ritmi Ölçme: Var Kalori Hesaplama: Var Bildirim Kontrol: Var Hava Durumu: Evet Uyku Takibi: Var Hava Durumu: Var Kan Basıncı: Var Kandaki Oksijen: Var Dil Seçeneği: Var Sitemizde bulunan tüm Wesse Connect Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Akıllı Saat",
-			"MarkaAdi": "Emporio Armani Connected",
-			"MalzemeTipi": "Çelik",
-			"KasaBoyutu": "44 mm Kasa Çapı",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 3 ATM Su Geçirmezlik",
-			"Renk": "Sarı-Siyah",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli3.jpg",
-			"Fiyat": "2.507₺",
-			"Aciklama": "Emporio Armani Connected Akıllı Saatiniz; Wear OS by Google teknolojisi ile size son derece kişiselleştirilmiş yeni bir deneyim sunuyor. Wear OS by Google ile çalışan akıllı saatler iPhone® ve Android™ telefonlarla uyumludur. Wear OS by Google ve ilgili diğer markalar Google LLC'nin ticari markalarıdır. Wear OS by Google, Android 6.0+ (Go sürümü hariç) ve iOS 10.0+ sürümünü kullanan telefonlarla çalışır. Desteklenen özellikler platformlar ve ülkeler arasında değişiklik gösterebilir. Emporio Armani Connected Dokunmatik Akıllı Saatinizin Özellikleri; Wear OS by Google™ ile çalışan akıllı saatler iPhoneⓇ ¹ ve Android Telefonlarla uyumludur.Akıllı saatiniz 8 GB hafızaya sahiptir. Genişletilmiş Pil Modunda tek bir şarjla birkaç gün kullanabilirsiniz. Kalp Atış Hızı ve Aktivite Takibi, mesafe takibi için Dahili GPS, Yüzme Esnasında Su Geçirmez tasarıma sahiptir. GEN 5 serisi ile sesli uyarıların yanı sıra telefon görüşmeleri yapabilir, Google Asistan’dan yanıt alabilir ve çok daha fazlası için Hoparlör özelliğine sahip olabilirsiniz. Akıllı telefon bildirimlerini ve uyarılarınızı alır, takviminizi yönetebilir, müziğinizi kontrol edebilir, saat yüzünüzü özelleştirir ve daha fazla depolama alanı sayesinde üçüncü taraf uygulamalarını indirebilirsiniz. Google Pay™ kullanarak saatinizle kasada hızlı ödeme yapabilirsiniz. İade edilmek istenen akıllı saat mutlaka orijinal kutusu ve eksiksiz içeriğiyle (saat, şarj kablosu, hızlı başlangıç kılavuzu, garanti bilgisi kılavuzu) gönderilmelidir. - Saat gönderilmeden önce resetlenmeli ve eğer bir telefon ile eşleştirildi ise eşleştirilme kaldırılmalıdır. Sitemizde bulunan tüm Emporio Armani Connected Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. \"Aynı gün Kargoda\" ibaresi yer alan ürünler \"Hızlı Teslimat\" seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Akıllı Saat",
-			"MarkaAdi": "Diesel Connected",
-			"MalzemeTipi": "Çelik",
-			"KasaBoyutu": "48 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 3 ATM Su Geçirmezlik",
-			"Renk": "Gri-Mavi",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli4.jpg",
-			"Fiyat": "1.802₺",
-			"Aciklama": "Diesel Connected Akıllı Saatinizde Wear OS by Google teknolojisine sahip sorunsuz işlevsellik yer almaktadır. Wear OS by Google ile çalışan akıllı saatler iPhone® ve Android™ telefonlarla uyumludur. Wear OS by Google ve ilgili diğer markalar Google LLC'nin ticari markalarıdır. Wear OS by Google ile çalışan dokunmatik ekranlı akıllı saatler için Android OS 4.4+ (Go sürümü hariç) veya iOS 10.0+ ile çalışan bir telefon gerekmektedir. Desteklenen özellikler platformlara ve ülkelere göre değişiklik gösterebilir. Saatinizin hasar görmesini önlemek için saatinizi yalnızca birlikte verilen şarj cihazıyla kullanmanız gerekmektedir. Şarj etmek için USB hub, USB ayırıcı, USB y kablosu, pil takımı veya başka bir çevresel aygıt kullanmayınız. RF paraziti olasılığını en aza indirmek için ürün, implante edilmiş tıbbi cihazlardan en az 20 cm daha uzakta tutulmalıdır. Diesel Connected Dokunmatik Akıllı Saatinizin Özellikleri; Wear OS by Google™ ile çalışan akıllı saatler iPhone¹ ve Android Telefonlarla uyumludur. Akıllı saatiniz 8 GB hafızaya sahiptir."
-		},
-		{
-			"KategoriAdi": "Akıllı Saat",
-			"MarkaAdi": "Michael Kors Connected",
-			"MalzemeTipi": "Çelik",
-			"KasaBoyutu": "48 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 3 ATM Su Geçirmezlik",
-			"Renk": "Gri",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli5.jpg",
-			"Fiyat": "3.327₺",
-			"Aciklama": "Michael Kors Connected Akıllı Saatiniz; Wear OS by Google ile çalışan akıllı saatler iPhone® ve Android™ telefonlarla uyumludur. Wear OS by Google ve ilgili diğer markalar Google LLC'nin ticari markalarıdır. Wear OS by Google, Android 6.0+ (Go sürümü hariç) ve iOS 10.0+ sürümünü kullanan telefonlarla çalışır. Desteklenen özellikler platformlar ve ülkeler arasında değişiklik gösterebilir. Michael Kors Connected Dokunmatik Akıllı Saatinizin Özellikleri; Wear OS by Google™ ile çalışan akıllı saatler iPhoneⓇ ¹ ve Android Telefonlarla uyumludur. Akıllı saatiniz 8 GB hafızaya sahiptir. Genişletilmiş Pil Modunda tek bir şarjla birkaç gün kullanabilirsiniz. Kalp Atış Hızı ve Aktivite Takibi, mesafe takibi için Dahili GPS, Yüzme Esnasında Su Geçirmez tasarıma sahiptir. "
-		},
-		{
-			"KategoriAdi": "Akıllı Saat",
-			"MarkaAdi": "Fossil Connected",
-			"MalzemeTipi": "Çelik",
-			"KasaBoyutu": "44 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 10 ATM Su Geçirmezlik",
-			"Renk": "Kahverengi",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli6.jpg",
-			"Fiyat": "2.507₺",
-			"Aciklama": "Wear OS by Google™ tarafından güçlendirilmiş akıllı saatler en sevdiğiniz uygulamalar ile bağlanır. Apple ve Android telefonlar ile uyumludur. Google Fit ile yapılan fitness takibinizle, kalori yakışınızı, adımlarınızı ve kat ettiğiniz mesafeleri görüntüleyebilirsiniz. Çağrılarınız ve alarmlarınız ile ilgili bildirimler alabilirsiniz. Akıllı saatlerinizin saat yüzlerini dilediğiniz renge ve tarza göre şekillendirip, kolayca çıkabilen kayışları sayesinde aktivitenize uygun kayışınızı seçebilirsiniz. Wear OS by Google sadece Android 4.4+(Go versiyonu dahil) veya iOS 9.3+ versiyonlarında çalışır."
-		},
-		{
-			"KategoriAdi": "Bayan Saat",
-			"MarkaAdi": "Diesel",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "45 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 10 ATM Su Geçirmezlik",
-			"Renk": "Siyah",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan1.jpg",
-			"Fiyat": "585₺",
-			"Aciklama": "Sitemizde bulunan tüm Diesel Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Bayan Saat",
-			"MarkaAdi": "Skagen",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "41 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 3 ATM Su Geçirmezlik",
-			"Renk": "Kırmızı",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan2.jpg",
-			"Fiyat": "1.125₺",
-			"Aciklama": "Sitemizde bulunan tüm Skagen Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Bayan Saat",
-			"MarkaAdi": "Armani Exchange",
-			"MalzemeTipi": "Çelik",
-			"KasaBoyutu": "36 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 5 ATM Su Geçirmezlik",
-			"Renk": "Altın",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan3.jpg",
-			"Fiyat": "1.177₺",
-			"Aciklama": "Sitemizde bulunan tüm Armani Exchange Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Bayan Saat",
-			"MarkaAdi": "Welder Moody Watch",
-			"MalzemeTipi": "Çelik",
-			"KasaBoyutu": "38 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 5 ATM Su Geçirmezlik",
-			"Renk": "Altın",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan4.jpg",
-			"Fiyat": "1.860₺",
-			"Aciklama": "Renk değiştiren “Photochromic” camı, sol tarafa konumlandırılmış kurma kolları ve hasır metal kordonun cool duruşu ile “Breezy Koleksiyonu” Welder Moody saatiniz tarzınızı tamamlayacak en trendy aksesuar olacak! “Welder Moody WWRC646 modelinin kayış ve kasa rengi neon rengidir.”"
-		},
-		{
-			"KategoriAdi": "Bayan Saat",
-			"MarkaAdi": "Guess",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "39 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 3 ATM Su Geçirmezlik",
-			"Renk": "Beyaz",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan5.jpg",
-			"Fiyat": "945₺",
-			"Aciklama": "Sitemizde bulunan tüm Guess Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Bayan Saat",
-			"MarkaAdi": "Skechers",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "30 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 3 ATM Su Geçirmezlik",
-			"Renk": "Su Yeşili",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan6.jpg",
-			"Fiyat": "172₺",
-			"Aciklama": "Sitemizde bulunan tüm Skechers Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Çocuk Saat",
-			"MarkaAdi": "Xonix",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "30 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 3 ATM Su Geçirmezlik",
-			"Renk": "Mavi",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk1.jpg",
-			"Fiyat": "108₺",
-			"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Çocuk Saat",
-			"MarkaAdi": "Xonix",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "35 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 10 ATM Su Geçirmezlik",
-			"Renk": "Siyah",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk2.jpg",
-			"Fiyat": "288₺",
-			"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Çocuk Saat",
-			"MarkaAdi": "Xonix",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "30 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 3 ATM Su Geçirmezlik",
-			"Renk": "Kırmızı",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk3.jpg",
-			"Fiyat": "108₺",
-			"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Çocuk Saat",
-			"MarkaAdi": "Xonix",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "30 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 3 ATM Su Geçirmezlik",
-			"Renk": "Açık Mavi",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk4.jpg",
-			"Fiyat": "108₺",
-			"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Çocuk Saat",
-			"MarkaAdi": "Xonix",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "42 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 10 ATM Su Geçirmezlik",
-			"Renk": "Siyah",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk5.jpg",
-			"Fiyat": "387₺",
-			"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Çocuk Saat",
-			"MarkaAdi": "Xonix",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "36 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 10 ATM Su Geçirmezlik",
-			"Renk": "Mavi-Sarı-Pembe",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk6.jpg",
-			"Fiyat": "288₺",
-			"Aciklama": "Sitemizde bulunan tüm Xonix Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Erkek Saat",
-			"MarkaAdi": "Emporio Armani",
-			"MalzemeTipi": "Çelik",
-			"KasaBoyutu": "46 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 5 ATM Su Geçirmezlik",
-			"Renk": "Gri-Siyah",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek1.jpg",
-			"Fiyat": "3.153₺",
-			"Aciklama": "Sitemizde bulunan tüm Emporio Armani Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat” seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Erkek Saat",
-			"MarkaAdi": "Diesel",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "46 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 5 ATM Su Geçirmezlik",
-			"Renk": "Siyah",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek2.jpg",
-			"Fiyat": "713₺",
-			"Aciklama": "Sitemizde bulunan tüm Diesel Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat” seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Erkek Saat",
-			"MarkaAdi": "Diesel",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "51 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 10 ATM Su Geçirmezlik",
-			"Renk": "Siyah-Mavi",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek3.jpg",
-			"Fiyat": "2502₺",
-			"Aciklama": "Sitemizde bulunan tüm Diesel Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat” seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Erkek Saat",
-			"MarkaAdi": "Welder Moody Watch",
-			"MalzemeTipi": "Deri-Çelik",
-			"KasaBoyutu": "45 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 5 ATM Su Geçirmezlik",
-			"Renk": "Siyah",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek4.jpg",
-			"Fiyat": "1310₺",
-			"Aciklama": "Renk değiştiren “Photochromic” camı, sol tarafa konumlandırılmış kurma kolları, yumuşak dokusu ve pastel tonlardaki farklı renk seçenekleri ile “Smoothie koleksiyonu” Welder Moody saatiniz tarzını tamamlayacak en trendy aksesuar olacak!"
-		},
-		{
-			"KategoriAdi": "Erkek Saat",
-			"MarkaAdi": "Tommy Hilfiger",
-			"MalzemeTipi": "Deri-Çelik",
-			"KasaBoyutu": "40 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 5 ATM Su Geçirmezlik",
-			"Renk": "Siyah",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek5.jpg",
-			"Fiyat": "2.457₺",
-			"Aciklama": "Sitemizde bulunan tüm Tommy Hilfiger Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Erkek Saat",
-			"MarkaAdi": "Emporio Armani",
-			"MalzemeTipi": "Çelik",
-			"KasaBoyutu": "43 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 5 ATM Su Geçirmezlik",
-			"Renk": "Siyah",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek6.jpg",
-			"Fiyat": "3.747₺",
-			"Aciklama": "Sitemizde bulunan tüm Emporio Armani Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Markalar",
-			"MarkaAdi": "Armani Exchange",
-			"MalzemeTipi": "Silikon",
-			"KasaBoyutu": "44 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 5 ATM Su Geçirmezlik",
-			"Renk": "Beyaz",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka1.jpg",
-			"Fiyat": "810₺",
-			"Aciklama": "Sitemizde bulunan tüm Emporio Armani Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Markalar",
-			"MarkaAdi": "Boss Watches",
-			"MalzemeTipi": "Çelik",
-			"KasaBoyutu": "44 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 5 ATM Su Geçirmezlik",
-			"Renk": "Gri",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka2.jpg",
-			"Fiyat": "2.058₺",
-			"Aciklama": ""
-		},
-		{
-			"KategoriAdi": "Markalar",
-			"MarkaAdi": "Missoni",
-			"MalzemeTipi": "Kumaş",
-			"KasaBoyutu": "44 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 5 ATM Su Geçirmezlik",
-			"Renk": "Mavi-Gri",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka3.jpg",
-			"Fiyat": "6.128₺",
-			"Aciklama": "Sitemizde bulunan tüm Missoni Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir. Aynı gün Kargoda ibaresi yer alan ürünler Hızlı Teslimat seçeneği tercih edildiği takdirde gün içinde teslim edilmektedir. Bu hizmetten 14:00'a kadar faydalanabilirsiniz. Bunun dışındaki siparişleriniz ortalama 5 iş günü içerisinde kargo yetkilisine teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Markalar",
-			"MarkaAdi": "Michael Kors",
-			"MalzemeTipi": "Çelik",
-			"KasaBoyutu": "38 mm Kasa Çapı ",
-			"KasaTipi": "Yuvarlak Kasa Şekli",
-			"Sertifika": " 5 ATM Su Geçirmezlik",
-			"Renk": "Altın-Gri",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka4.jpg",
-			"Fiyat": "3.208₺",
-			"Aciklama": "Sitemizde bulunan tüm Michael Kors Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 2 yıl garanti kapsamındadır. Siparişiniz onaylanmış orijinal garanti belgesi ve kutusu ile anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir"
-		},
-		{
-			"KategoriAdi": "Takı Ve Aksesuar",
-			"MarkaAdi": "Tommy Hilfiger",
-			"MalzemeTipi": "Paraşüt İpi",
-			"KasaBoyutu": "44 Çap",
-			"KasaTipi": "Örgü",
-			"Sertifika": "10 rpm basınca dayanıklı",
-			"Renk": "Lacivert",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/taki1.jpg",
-			"Fiyat": "550₺",
-			"Aciklama": "Sitemizde bulunan tüm Tommy Hilfiger Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 1 yıl garanti kapsamındadır. Siparişiniz anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Takı Ve Aksesuar",
-			"MarkaAdi": "Diesel",
-			"MalzemeTipi": "Zincir",
-			"KasaBoyutu": "44 Çap",
-			"KasaTipi": "Zincir Sarma",
-			"Sertifika": "10 rpm basınca dayanıklı",
-			"Renk": "Siyah",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/taki2.jpg",
-			"Fiyat": "711₺",
-			"Aciklama": "Sitemizde bulunan tüm Diesel Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 1 yıl garanti kapsamındadır. Siparişiniz anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir."
-		},
-		{
-			"KategoriAdi": "Takı Ve Aksesuar",
-			"MarkaAdi": "Diesel",
-			"MalzemeTipi": "Boncuk",
-			"KasaBoyutu": "42 Çap",
-			"KasaTipi": "Yuvarlak Boncuk El Yapımı",
-			"Sertifika": "10 rpm basınca dayanıklı",
-			"Renk": "Siyah",
-			"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/taki3.jpg",
-			"Fiyat": "567₺",
-			"Aciklama": "Sitemizde bulunan tüm Diesel Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 1 yıl garanti kapsamındadır. Siparişiniz anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir."
+			"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/taki1.jpg",
+			"Products": [
+
+				{
+					"KategoriAdi": "Takı Ve Aksesuar",
+					"MarkaAdi": "Tommy Hilfiger",
+					"MalzemeTipi": "Paraşüt İpi",
+					"KasaBoyutu": "44 Çap",
+					"KasaTipi": "Örgü",
+					"Sertifika": "10 rpm basınca dayanıklı",
+					"Renk": "Lacivert",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/taki1.jpg",
+					"Fiyat": "550₺",
+					"Aciklama": "Sitemizde bulunan tüm Tommy Hilfiger Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 1 yıl garanti kapsamındadır. Siparişiniz anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Takı Ve Aksesuar",
+					"MarkaAdi": "Diesel",
+					"MalzemeTipi": "Zincir",
+					"KasaBoyutu": "44 Çap",
+					"KasaTipi": "Zincir Sarma",
+					"Sertifika": "10 rpm basınca dayanıklı",
+					"Renk": "Siyah",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/taki2.jpg",
+					"Fiyat": "711₺",
+					"Aciklama": "Sitemizde bulunan tüm Diesel Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 1 yıl garanti kapsamındadır. Siparişiniz anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir."
+				},
+				{
+					"KategoriAdi": "Takı Ve Aksesuar",
+					"MarkaAdi": "Diesel",
+					"MalzemeTipi": "Boncuk",
+					"KasaBoyutu": "42 Çap",
+					"KasaTipi": "Yuvarlak Boncuk El Yapımı",
+					"Sertifika": "10 rpm basınca dayanıklı",
+					"Renk": "Siyah",
+					"UrunResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/taki3.jpg",
+					"Fiyat": "567₺",
+					"Aciklama": "Sitemizde bulunan tüm Diesel Ürün Modelleri SAAT VE SAAT SANAYİ TİCARET A.Ş güvencesi altındadır. Alacağınız bu ürün 1 yıl garanti kapsamındadır. Siparişiniz anlaşmalı kargo firması (MNG Kargo) tarafından adresinize teslim edilecektir."
+				}
+			]
 		}
 	]
 }
