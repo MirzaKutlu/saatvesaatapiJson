@@ -1,9 +1,7 @@
-[
-	{
+[{
 		"KategoriAdi": "Akıllı Saat",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/kapakAkilli.jpg",
-		"Products": [
-			{
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli1.jpg",
+		"Products": [{
 				"KategoriAdi": "Akıllı Saat",
 				"MarkaAdi": "Parigi Connect",
 				"MalzemeTipi": "Silikon",
@@ -79,8 +77,9 @@
 	},
 	{
 		"KategoriAdi": "Bayan Saat",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayanKapak.jpg",
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan1.jpg",
 		"Products": [
+
 			{
 				"KategoriAdi": "Bayan Saat",
 				"MarkaAdi": "Diesel",
@@ -157,8 +156,9 @@
 	},
 	{
 		"KategoriAdi": "Çocuk Saat",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocukKapak.jpg",
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk1.jpg",
 		"Products": [
+
 			{
 				"KategoriAdi": "Çocuk Saat",
 				"MarkaAdi": "Xonix",
@@ -235,8 +235,9 @@
 	},
 	{
 		"KategoriAdi": "Erkek Saat",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/kapakErkek.jpg",
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek1.jpg",
 		"Products": [
+
 			{
 				"KategoriAdi": "Erkek Saat",
 				"MarkaAdi": "Emporio Armani",
@@ -313,8 +314,9 @@
 	},
 	{
 		"KategoriAdi": "Markalar",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/markaKapak.jpg",
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka1.jpg",
 		"Products": [
+
 			{
 				"KategoriAdi": "Markalar",
 				"MarkaAdi": "Armani Exchange",
@@ -367,8 +369,9 @@
 	},
 	{
 		"KategoriAdi": "Takı Ve Aksesuar",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/takiKapak.jpg",
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/taki1.jpg",
 		"Products": [
+
 			{
 				"KategoriAdi": "Takı Ve Aksesuar",
 				"MarkaAdi": "Tommy Hilfiger",
@@ -407,4 +410,5 @@
 			}
 		]
 	}
+
 ]
