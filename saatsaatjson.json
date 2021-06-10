@@ -1,6 +1,6 @@
 [{
 		"KategoriAdi": "Akıllı Saat",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/akilli1.jpg",
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/kapakAkilli.jpg",
 		"Products": [{
 				"KategoriAdi": "Akıllı Saat",
 				"MarkaAdi": "Parigi Connect",
@@ -77,7 +77,7 @@
 	},
 	{
 		"KategoriAdi": "Bayan Saat",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayan1.jpg",
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/bayanKapak.jpg",
 		"Products": [
 
 			{
@@ -156,7 +156,7 @@
 	},
 	{
 		"KategoriAdi": "Çocuk Saat",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocuk1.jpg",
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/cocukKapak.jpg",
 		"Products": [
 
 			{
@@ -235,7 +235,7 @@
 	},
 	{
 		"KategoriAdi": "Erkek Saat",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkek1.jpg",
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/erkekKapak.jpg",
 		"Products": [
 
 			{
@@ -314,7 +314,7 @@
 	},
 	{
 		"KategoriAdi": "Markalar",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/marka1.jpg",
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/markaKapak.jpg",
 		"Products": [
 
 			{
@@ -369,7 +369,7 @@
 	},
 	{
 		"KategoriAdi": "Takı Ve Aksesuar",
-		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/taki1.jpg",
+		"kapakResim": "https://raw.githubusercontent.com/MirzaKutlu/saatvesaatapiJson/main/takiKapak.jpg",
 		"Products": [
 
 			{
